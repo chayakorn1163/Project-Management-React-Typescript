@@ -1,0 +1,6 @@
+@import '../node_modules/mini.css/dist/mini-default.min.css';
+
+
+from {
+  min-width: 300px;
+}
